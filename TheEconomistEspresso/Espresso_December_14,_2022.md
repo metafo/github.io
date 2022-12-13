@@ -115,3 +115,6 @@ Our baristas will serve you a new question each day this week. On Friday your ch
 > **Where all think alike, no one thinks very much.**
 >
 > Walter Lippman
+
+
+
