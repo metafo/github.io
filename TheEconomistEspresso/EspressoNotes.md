@@ -8888,5 +8888,291 @@ Our baristas will serve you a new question each day this week. On Friday your ch
 
 
 
+### December 16, 2022
+
+#### The world in brief December 16, 2022
+
+Catch up quickly on the global stories that matter
+
+------
+
+**Central banks** in Europe and Britain followed the lead of the [Federal Reserve](https://te.arielherself.xyz/finance-and-economics/2022/12/13/americas-inflation-fever-may-be-breaking-at-last) by raising interest rates by 0.5 percentage points, lower than the previous rises of 0.75. The **Bank of England’s** hike—its ninth consecutive rise—took its rate to 3.5%, the highest level in 14 years. Meanwhile, the **European Central Bank** raised its rate from 1.5% to 2%, the highest since the global financial crisis in 2008. The ECB suggested it expects further rises to come as inflation remains well-above its medium-term 2% target, even if it has reached its peak. Euro-zone inflation was 10% in November, down from 10.6% in October.
+
+Consumers in **America** tightened their belts in November: **retail sales** fell by 0.6% from the previous month, the sharpest drop in nearly a year and well below forecasts. The decline came despite the boost to real incomes from falling petrol prices, indicating that rising interest rates and slowing employment growth are [starting to bite](https://te.arielherself.xyz/the-world-ahead/2022/11/18/the-american-economy-is-set-for-a-downturn-not-a-crisis). The S&P 500 shed 2.5%.
+
+**Ukraine’s** president, Volodymyr Zelensky, said that 64 Ukrainian prisoners of war had been freed from Russian captivity in [a prisoner exchange](https://te.arielherself.xyz/the-economist-explains/2022/08/05/how-do-prisoner-swaps-work). An American citizen was also freed in the swap. Ukrainian officials did not say how many Russian prisoners they released in return. Meanwhile, an “unknown drone” struck a Russian airbase in Kursk, near the border with Ukraine, according to the country’s officials.
+
+An American accounting regulator said it had scrutinised the books of eight **Chinese firms** listed in New York. The Public Company Accounting Oversight Board said it had found numerous potential deficiencies. Still, the inspection represented a breakthrough: China had long refused to grant it full access to the audit records, until America threatened to [delist some 200 Chinese firms](https://te.arielherself.xyz/finance-and-economics/2021/08/14/how-the-delisting-of-chinese-firms-on-american-exchanges-might-play-out) from its stock exchanges.
+
+The [**Wagner Group**](https://te.arielherself.xyz/the-economist-explains/2022/03/07/what-is-the-wagner-group-russias-mercenary-organisation), a Russian firm of private mercenaries, is helping **Burkina Faso’s** government fight jihadists, according to Ghana’s president. Nana Akufo-Addo alleged that the Russian group received a mine as payment for deploying soldiers, who operate in at least six other African countries. In the past year alone, [Burkina Faso](https://te.arielherself.xyz/middle-east-and-africa/2022/10/01/for-the-second-time-this-year-soldiers-stage-a-coup-in-burkina-faso) has been rocked by two miliary coups and has seen more than 3,100 people killed by jihadist violence.
+
+**Elon Musk** unloaded $3.6bn more of shares in his electric car company, **Tesla**. That brings the total to almost $23bn since Mr Musk announced a [$44bn takeover of Twitter](https://te.arielherself.xyz/business/2022/10/28/elon-musk-buys-twitter-at-last). Tesla’s shares fell by more than 60% this year. Investors are worried that inflation could squeeze demand for the company’s fancy cars—and that its [boss is too distracted](https://te.arielherself.xyz/united-states/2022/12/01/elon-musk-is-showing-what-a-waste-of-time-twitter-can-be) to run the firm.
+
+The UN postponed decisions about whether to allow representatives from **Afghanistan’s** Taliban administration and **Myanmar’s** [military junta](https://te.arielherself.xyz/asia/2022/09/15/an-economically-illiterate-junta-is-running-myanmar-into-the-ground) to represent their countries at the general assembly. The UN’s assent would have been an important step in both regimes’ quests for international recognition. For now the envoys that preceded regime changes in both countries will retain their positions. The UN will revisit the issue in nine months.
+
+
+
+#### **Fact of the day:** 
+
+**12,000**, the number of new regulations introduced by the American government in 2021, a rise on recent years. [Read the full story](https://te.arielherself.xyz/leaders/2022/12/14/why-are-the-rich-worlds-politicians-giving-up-on-economic-growth).
+
+
+
+------
+
+
+
+#### Beefing up Japan’s defences
+
+![img](https://niceboy.online/insight/public/Espresso/PHOTOS/20221217_dap370.jpg)
+
+PHOTO: GETTY IMAGES
+
+Japan’s security policy will take a leap forward on Friday, when the government releases long-awaited [revisions](https://te.arielherself.xyz/asia/2022/09/13/war-in-ukraine-has-bolstered-japans-support-for-a-stronger-army) to its national security strategy. Japan will codify plans to raise defence spending to 2% of GDP by 2027, up from around 1% today. At current levels, that would make Japan the world’s third-largest defence spender in absolute terms. The government also plans to acquire long-range missiles that would allow it to strike targets in enemy territory. Both moves represent breaks in precedent in a country where pacifism has been dominant since the end of the second world war.
+
+Big questions remain. One is what exactly the new money will be spent on. The other is where it will come from. Yet, strikingly, there has been no major domestic opposition to the government’s proposals. A combination of China’s aggressive posture, North Korea’s increasingly brazen missile programme and Russia’s invasion of Ukraine have convinced the Japanese that they can no longer afford to skimp on security.
+
+![img](https://niceboy.online/insight/public/Espresso/PHOTOS/20221217_DAC825_0.jpg)
+
+
+
+#### Life is still too dangerous for Indian women
+
+![img](https://niceboy.online/insight/public/Espresso/PHOTOS/20221217_dap371.jpg)
+
+PHOTO: GETTY IMAGES
+
+Friday marks ten years to the day since Jyoti Singh, a 23-year-old physiotherapy student, was raped and mutilated by a group of men on a bus in Delhi. She later died of her injuries.
+
+A decade on, [not enough has changed](https://te.arielherself.xyz/asia/2022/11/29/what-two-crimes-reveal-about-violence-against-indian-women). In May Shraddha Walkar, a call-centre worker, vanished in Delhi. She had previously told police that her partner, with whom she lived, beat and threatened to dismember her. He confessed to ultimately doing so last month. Most violence against Indian women happens at home: in a survey 30% of married or previously married women said they had been subject to domestic abuse.
+
+Jyoti Singh’s case did prompt change. Several new laws make the prosecution of sexual-assault cases easier, the Supreme Court strengthened women’s rights in several areas and the share of victims who reported sex crimes rose somewhat. But much more work is needed. Half of Indians still say it is acceptable for husbands to beat their wives. Until [social attitudes](https://te.arielherself.xyz/graphic-detail/2019/02/05/how-indias-men-can-learn-to-treat-women-better) change, women will remain in peril.
+
+
+
+#### The ANC’s big meeting in Johannesburg
+
+![img](https://niceboy.online/insight/public/Espresso/PHOTOS/20221217_dap368.jpg)
+
+PHOTO: GETTY IMAGES
+
+When the African National Congress begins its national conference on Friday, the arena will reverberate with old songs about fighting apartheid. Indeed, there is more to celebrate in the past of [South Africa’s ruling party](https://te.arielherself.xyz/middle-east-and-africa/2022/12/08/cyril-ramaphosa-is-contesting-efforts-to-oust-him) than in its present—or future. After 28 years of ANC governments South Africans are increasingly fed up with the party, which is expected to lose its majority at the next general election in 2024.
+
+At the conference the party will choose its leadership to fight that election. Despite a recent [corruption scandal](https://te.arielherself.xyz/middle-east-and-africa/2022/06/23/allegations-of-impropriety-weaken-south-africas-president) Cyril Ramaphosa, president of both party and country, is expected to hold on to power. His supporters say that if he can muster enough allies in top party positions, he will finally be able to pursue economic reforms and clean up corruption. Yet that is naive. Not even Nelson Mandela, the ANC’s most famous leader, would be able to renew the party today. It is a machine for patronage, not for progress.
+
+
+
+#### Sweden inches towards NATO
+
+![img](https://niceboy.online/insight/public/Espresso/PHOTOS/20221217_dap367.jpg)
+
+PHOTO: GETTY IMAGES
+
+On Friday the Riksdag, Sweden’s parliament, will discuss the country’s defence budget. Sweden [applied this year](https://te.arielherself.xyz/europe/2022/05/12/sweden-is-following-finlands-lead-on-joining-nato) to join NATO alongside Finland, its Nordic neighbour, following Russia’s attack on Ukraine. Sweden had planned to reach the alliance’s defence-spending target of 2% of GDP by 2028, but may now bring that target forward by two years.
+
+But the pair’s NATO applications have been held up by Hungary and Turkey, two other members of the alliance. On Tuesday, after the EU agreed to let it access billions in aid, Hungary lifted its veto and confirmed its parliament would debate Swedish and Finnish accession in February. Meanwhile, Sweden has been courting Turkey. In September it lifted an informal ban on selling military equipment to the country. And reports emerged this month that Sweden’s government has deported people to Turkey suspected of ties to the [PKK](https://te.arielherself.xyz/the-economist-explains/2022/06/28/what-is-the-pkk), a Kurdish rebel group that has long been a thorn in the side of Turkish leaders. It remains unclear if the concessions will do the trick.
+
+
+
+#### The sequel to “Avatar” finally arrives
+
+![img](https://niceboy.online/insight/public/Espresso/PHOTOS/20221217_dap366.jpg)
+
+PHOTO: CAPITAL PICTURES
+
+On Friday the long-awaited sequel to “Avatar”, a science-fiction blockbuster released in 2009, will finally hit the screens. Its director, James Cameron, has an impressive record. The first “Avatar” is the highest-grossing film ever made; another of Mr Cameron’s efforts, “[Titanic](https://te.arielherself.xyz/culture/2022/11/23/twenty-five-years-on-titanic-feels-like-a-prophecy)”, is in third place. But “Avatar: The Way of Water” may struggle to make such a big splash.
+
+The sequel continues the adventures of Jake Sully (played by Sam Worthington), an American Marine whose mind has been zapped into a cloned alien body. He now defends his Edenic adopted home world, Pandora, from invading human colonists. The computer-generated imagery is spectacular. Yet the action doesn’t merit the film’s running time of over three hours. The protagonist spends half of that on a tropical island, bonding with local sea creatures. Mr Cameron may be saving his best story ideas for later: three more instalments of the franchise are due before 2030. Fans must hope they are worth the wait.
+
+
+
+#### Daily quiz
+
+![img](https://niceboy.online/insight/public/Espresso/PHOTOS/QuizNEW_82.jpeg)
+
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on **Friday** to [QuizEspresso@economist.com](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
+
+**Friday:** What hollow snack is often handed out to guests in Chinese restaurants after a meal?
+
+**Thursday:** Which lyricist collaborated with Richard Rodgers on the musicals “Oklahoma!” and “South Pacific”?
+
+
+
+#### The winners of last week’s crossword
+
+![img](https://niceboy.online/insight/public/Espresso/PHOTOS/Crossword_10.jpg)
+
+Thank you to everyone who took part in our new weekly crossword, published in the weekend edition of Espresso. The winners, chosen at random, were:
+
+**Yumi Arima**, Tokyo, Japan
+**Mark Westin**, Warsaw, Poland
+**Trevor Ford**, Thirlmere, Australia
+
+They all gave the correct answers of [South Africa](https://te.arielherself.xyz/middle-east-and-africa/2022/12/08/cyril-ramaphosa-is-contesting-efforts-to-oust-him), [sharia](https://te.arielherself.xyz/middle-east-and-africa/2022/12/04/irans-rattled-government-may-be-backing-down), [asset](https://te.arielherself.xyz/leaders/2022/12/08/investing-in-an-era-of-higher-interest-rates-and-scarcer-capital) and [asylum](https://te.arielherself.xyz/britain/2022/12/08/asylum-claims-by-albanians-spark-debate-over-a-landmark-british-law). Check back tomorrow for this week’s crossword.
+
+
+
+> Any sufficiently advanced technology is indistinguishable from magic.
+>
+> Arthur C. Clarke
+
+
+
+### December 17, 2022
+
+#### The world in brief December 17, 2022
+
+Catch up quickly on the global stories that matter
+
+Updated less than 1 hour ago (05:47 GMT / 13:47 Hong Kong)
+
+------
+
+**Russia** launched more than 70 missiles on Ukraine in its second mass strike in a matter of days, damaging energy infrastructure in Kyiv, the capital, and elsewhere, killing two. Kherson, in southern Ukraine, was left without power and Kharkiv, in the east, saw its electricity, heating and water supplies cut. Meanwhile, General Valery Zaluzhny, the head of Ukraine’s armed forces, [told *The Economist*](https://te.arielherself.xyz/ukraines-fateful-winter) that the Russians are preparing for a major Russian offensive in the next few months, including “another go at Kyiv”.
+
+**Goldman Sachs** will reportedly lay off several thousand employees and slash bonuses as it retreats from its planned consumer business. Semafor, a news site, reported that the firm could shed 8% of its staff, a more substantial cut than rival banks. Its consumer-facing unit, Marcus, is not profitable, and Goldman’s share price has fallen by nearly a tenth this year.
+
+**Binance**, the world’s largest crypto exchange, said it had processed $6bn in net withdrawals between Monday and Wednesday, as FTX’s collapse continued to unnerve crypto investors. On Friday Mazars Group, an accounting firm, said it would stop producing “proof of reserve” reports—a much skimpier version of a standard audit—for Binance. Binance said it was searching for another firm to do so, to provide “transparency” and reassure customers.
+
+The **European Commission** threatened **Twitter** with sanctions if “red lines” were crossed. The warning came after the social-media platform banned some journalists who had written about its new owner, Elon Musk. **Vera Jourova**, the commissioner for “values and transparency”, called the suspensions “worrying” and hinted that they could violate the EU’s Digital Services Act—a draft law targeting big tech that could come into force next year.
+
+**Peru’s** Congress rejected legislation by the new president to bring forward elections by more than two years, to December 2023—a proposal intended to quell protests over the ouster of her predecessor, Pedro Castillo. Eighteen people have died in the clashes; two cabinet ministers have resigned. About 5,000 tourists have been stranded in Cusco, near Machu Picchu, after protesters stormed the airport.
+
+The Biden administration said it would buy 3m barrels of **oil** in February to replenish **America’s** strategic reserves, after overseeing the largest drawdown from the stockpile since the mid-1980s. The move is intended to spur production by domestic firms, who alone are eligible to supply the stuff. In March the administration sold 180m barrels from the stockpile.
+
+**India** tested a long-range, nuclear-capable missile amid rising tensions with **China**. The Agni-5 has a range of 5,400km (encompassing all of the Chinese mainland) and will “strengthen national security to a greater extent”, according to an Indian official. Last week Indian and Chinese soldiers brawled along a disputed border in the eastern Himalayas. Their delegations to the UN meanwhile exchanged sharp words in New York.
+
+
+
+#### **Word of the week:** 
+
+friendshoring, a kind of reverse offshoring in which supply chains are redirected to stable, ideally allied countries. [Read the full story](https://te.arielherself.xyz/culture/2022/12/14/and-the-word-of-2022-is).
+
+
+
+------
+
+
+
+#### Germany shores up its gas supply
+
+![img](https://niceboy.online/insight/public/Espresso/PHOTOS/20221217_dap376.jpg)
+
+PHOTO: GETTY IMAGES
+
+On Saturday Olaf Scholz, Germany’s chancellor, and Robert Habeck, his economy minister, will inaugurate the country’s first import terminal for liquid natural gas (LNG) in Wilhelmshaven, on the North Sea coast. On Thursday the *Hoegh Esperanza*, a specialised vessel that can regasify liquid gas, arrived in the town.
+
+The deliveries come as Germany wrestles with a [cut in gas imports from Russia](https://te.arielherself.xyz/europe/can-germany-cope-without-russian-gas/21808482) following its invasion of Ukraine. The new equipment will feed at least 5bn cubic metres of natural gas per year into Germany’s gas grid. That is around 6% of the country’s demand, and will replace approximately 11% of imports from Russia, according to Uniper, a utility. (After Russia, Norway and the Netherlands are the next biggest gas suppliers to Germany; LNG deliveries will flow from Qatar in 2026 under a recently inked deal.) Uniper expects the first LNG tanker to dock at the *Hoegh Esperanza* in early January. Germany will inaugurate two further LNG terminals before the end of the year. They can’t come soon enough.
+
+
+
+#### Ireland’s previous prime minister returns
+
+![img](https://niceboy.online/insight/public/Espresso/PHOTOS/20221217_dap404.jpg)
+
+PHOTO: GETTY IMAGES
+
+Leo Varadkar, the leader of Fine Gael, one of Ireland’s two dominant political parties, will become taoiseach (prime minister) for a second time on Saturday. Under a “rotating taoiseach” deal thrashed out in 2020 Michael Martin, the leader of Fianna Fail, with which Fine Gael rules in coalition, held the job for the first half of the current parliament. Now it is Mr Varadkar’s turn again (he previously served from 2017-20). He is already off to a rocky start, even before he officially takes office.
+
+Last month, following surveys suggesting that many of Ireland’s young renters are considering emigrating in order to find affordable housing, Mr Varadkar harrumphed that they couldn’t expect to do better abroad. His dismissive comments provoked derision from emigrants who reported finding [cheaper](https://te.arielherself.xyz/graphic-detail/2022/11/30/the-worlds-most-and-least-expensive-cities) rents in Amsterdam, Berlin and Paris. A recent poll finds waning support for both ruling parties. [Sinn Fein](https://te.arielherself.xyz/britain/2021/12/04/the-quest-for-respectability-and-votes-has-transformed-sinn-fein), an insurgent outfit, will probably win the most seats at Ireland’s next election.
+
+
+
+#### Why understanding biodiversity is hard stuff
+
+![img](https://niceboy.online/insight/public/Espresso/PHOTOS/20221217_dap374.jpg)
+
+PHOTO: GETTY IMAGES
+
+This week the Mexican delegation at the [UN biodiversity summit](https://te.arielherself.xyz/the-economist-explains/2022/12/09/why-is-there-another-cop-happening) in Montreal began offering a bottle of tequila for every point on which negotiators found agreement in one of the texts. The objective of COP15 (not to be confused with COP26, the climate conference in November) is to hash out a [global agreement](https://te.arielherself.xyz/science-and-technology/2022/12/14/a-un-biodiversity-meeting-is-slugging-it-out-in-montreal) to reverse the worst damage that humans have inflicted on nature. That is hard, for both scientific and political reasons.
+
+The climate system, while complex, is mostly governed by physics and can be simulated using models. [Ecosystem modelling](https://te.arielherself.xyz/technology-quarterly/2021/06/15/compared-with-climate-modelling-of-ecosystems-is-at-an-early-stage), however, is in its infancy. Ecosystems are composed of vast networks of organisms interacting in complicated ways. More funding for scientific research worldwide would help. So would action to address the drivers of biodiversity loss, like pollution and land use. Both are under discussion in Montreal, though neither debate will go down smoothly.
+
+
+
+#### An immigrant babysitter’s disquiet in “Nanny”
+
+![img](https://niceboy.online/insight/public/Espresso/PHOTOS/20221217_dap379.jpg)
+
+PHOTO: AVALON
+
+“Nanny”, a film that arrived on Amazon Prime on Friday, is a vivid psychological thriller about Aisha (Anna Diop), a Senegalese woman who works for a white family in New York. The child she looks after is sweet, but the mother doesn’t pay on time, and the father is a bit of a creep. Aisha stands up to her privileged employers, yet her discomfort grows like a storm, triggering nerve-jangling hallucinations.
+
+The American director, Nikyatu Jusu, drew on her own experiences to evoke her character’s alienation (Ms Jusu’s parents hail from Sierra Leone). Aisha sends money to her son in Senegal, and though she finds glimpses of community in New York, the boy’s absence haunts her room in her employers’ sleek apartment. The first horror film to take the top jury prize for an American drama at the Sundance film festival, “Nanny” touches on class, race, labour and immigration, building slow-burn menace from Aisha’s growing dread.
+
+
+
+#### Weekend profile: Ekrem Imamoglu, the mayor of Istanbul facing prosecution
+
+![img](https://niceboy.online/insight/public/Espresso/PHOTOS/20221217_dap378.jpg)
+
+PHOTO: GETTY IMAGES
+
+As the former head of his family’s construction company, Ekrem Imamoglu says he often saw projects get bogged down by politics. He says he entered politics to untangle the red tape. That line got him elected mayor of a suburb of Istanbul in 2014 as a member of Turkey’s main opposition outfit, the Republican People’s Party (CHP). Five years later Mr Imamoglu was elected mayor of the whole city, but only after Justice and Development (AK), the party of Recep Tayyip Erdogan, Turkey’s president, contested the initial vote. Mr Imamoglu [won the rerun election by a landslide](https://te.arielherself.xyz/europe/2019/06/24/the-oppositions-new-star-deals-turkeys-president-a-stinging-blow). His victory was a heavy blow for Mr Erdogan, himself a former mayor of Istanbul who is fond of saying that “whoever wins Istanbul wins Turkey”.
+
+As mayor Mr Imamoglu has focused on quality-of-life issues in Europe’s most populous city, expanding the metro to ease traffic and improving storm-drainage to reduce flash-flooding. The president knows that the opposition’s successful management of Istanbul poses risks to his 20-year tenure in office, given that presidential elections are expected by June 2023. The CHP has yet to name a candidate to take on Mr Erdogan, and Mr Imamoglu has stayed mum on his ambitions for higher office. But polls suggest that he is one of the opposition politicians best placed to unseat Mr Erdogan at the ballot box.
+
+Naturally charismatic, Mr Imamoglu is a rare unifying figure in Turkey’s polarised political landscape. He is religious and progressive. He is a Turk from the ultra-nationalist Black Sea region, but also appeals to minority voters like Kurds and Alevis. His appeal makes him a highly [dangerous rival to Mr Erdogan](https://te.arielherself.xyz/europe/2022/06/09/as-elections-approach-turkeys-president-finds-enemies-everywhere). On December 14th a court in Istanbul convicted Mr Imamoglu of “insulting” the officials who had ordered the rerun of the Istanbul mayoral election, whom he had called “fools”. He was sentenced to two years and seven months in prison, and banned from holding political office. An appeal is under way, but if it fails the ruling could bar Mr Imamoglu from challenging Mr Erdogan and AK at any level.
+
+Supporters of Mr Imamoglu think the case is politically motivated. But most analysts reckon that, if his conviction is overturned, it could rally voters behind him. After all, Mr Erdogan was catapulted to power after serving four months in prison for reading a religious poem. A ruling in Mr Imamoglu’s favour by the appeals court could just see him follow suit.
+
+
+
+#### Weekly crossword
+
+![img](https://niceboy.online/insight/public/Espresso/PHOTOS/EspressoCrossword_13.jpg)
+
+Our crossword is designed for experienced cruciverbalists and newcomers alike. Both sets of clues give the same answers, all of which feature in articles in this week’s edition of *The Economist*:
+
+Email all four answers by 9am GMT on Monday to crossword@economist.com, along with your home city and country. We will pick randomly from those with the right answers and crown three winners in next week’s edition.
+
+**Cryptic clues**
+
+*1 down* Writer’s washroom redesigned. Clearer! (4, 2, 5)
+
+*1 across* Confusing terminology that’s just a little chemical (6)
+
+*2 across* Energy and light, we hear, are powerful (5)
+
+*3 across* Former lover left, is headed elsewhere (6)
+
+**Factual clues**
+
+*1 down* Someone who might have imagined the scandals around Cyril Ramaphosa (4, 2, 5)
+
+*1 across* Business, economics and finance are perennial sources of this (6)
+
+*2 across* A group preoccupied with imperialism and greatness (5)
+
+*3 across* Grain is Ukraine’s biggest (6)
+
+![img](https://niceboy.online/insight/public/Espresso/PHOTOS/XwordGrid_11_656_12.jpg)
+
+
+
+#### The winners of this week’s quiz
+
+![img](https://niceboy.online/insight/public/Espresso/PHOTOS/20220218_OPD004_hq_59.jpg)
+
+Thank you to everyone who took part in this week’s quiz. The winners, chosen at random, were:
+
+**Sebastián Cova**, Caracas, Venezuela
+
+**Martha Baker**, Uberlingen, Germany
+
+**Martin Luebke**, Petawawa, Canada
+
+They all gave the correct answers of The Count of Monte Cristo, Larry Bird, Bert, Oscar Hammerstein and fortune cookies. The theme is Sesame Street characters: Count von Count, Big Bird, Bert, Oscar the Grouch and Cookie Monster.
+
+
+
+> **It is better to die for an idea that will live, than to live for an idea that will die.**
+>
+> Steve Biko
+
+
+
+
+
 
 
