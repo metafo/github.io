@@ -1,6 +1,6 @@
-# The world in brief
+## The world in brief
 
-March 13, 2023
+### March 13, 2023
 
 Catch up quickly on the global stories that matter
 
