@@ -1,0 +1,1179 @@
+<!doctype html>
+<html>
+<head>
+<meta charset='UTF-8'><meta name='viewport' content='width=device-width initial-scale=1'>
+
+<link href='https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap' rel='stylesheet' type='text/css' /><link href='https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@500&display=swap' rel='stylesheet' type='text/css' /><style type='text/css'>html {overflow-x: initial !important;}:root { --bg-color:#ffffff; --text-color:#333333; --select-text-bg-color:#B5D6FC; --select-text-font-color:auto; --monospace:"Lucida Console",Consolas,"Courier",monospace; --title-bar-height:20px; }
+.mac-os-11 { --title-bar-height:28px; }
+html { font-size: 14px; background-color: var(--bg-color); color: var(--text-color); font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; -webkit-font-smoothing: antialiased; }
+body { margin: 0px; padding: 0px; height: auto; inset: 0px; font-size: 1rem; line-height: 1.42857; overflow-x: hidden; background: inherit; tab-size: 4; }
+iframe { margin: auto; }
+a.url { word-break: break-all; }
+a:active, a:hover { outline: 0px; }
+.in-text-selection, ::selection { text-shadow: none; background: var(--select-text-bg-color); color: var(--select-text-font-color); }
+#write { margin: 0px auto; height: auto; width: inherit; word-break: normal; overflow-wrap: break-word; position: relative; white-space: normal; overflow-x: visible; padding-top: 36px; }
+#write.first-line-indent p { text-indent: 2em; }
+#write.first-line-indent li p, #write.first-line-indent p * { text-indent: 0px; }
+#write.first-line-indent li { margin-left: 2em; }
+.for-image #write { padding-left: 8px; padding-right: 8px; }
+body.typora-export { padding-left: 30px; padding-right: 30px; }
+.typora-export .footnote-line, .typora-export li, .typora-export p { white-space: pre-wrap; }
+.typora-export .task-list-item input { pointer-events: none; }
+@media screen and (max-width: 500px) {
+  body.typora-export { padding-left: 0px; padding-right: 0px; }
+  #write { padding-left: 20px; padding-right: 20px; }
+}
+#write li > figure:last-child { margin-bottom: 0.5rem; }
+#write ol, #write ul { position: relative; }
+img { max-width: 100%; vertical-align: middle; image-orientation: from-image; }
+button, input, select, textarea { color: inherit; font: inherit; }
+input[type="checkbox"], input[type="radio"] { line-height: normal; padding: 0px; }
+*, ::after, ::before { box-sizing: border-box; }
+#write h1, #write h2, #write h3, #write h4, #write h5, #write h6, #write p, #write pre { width: inherit; }
+#write h1, #write h2, #write h3, #write h4, #write h5, #write h6, #write p { position: relative; }
+p { line-height: inherit; }
+h1, h2, h3, h4, h5, h6 { break-after: avoid-page; break-inside: avoid; orphans: 4; }
+p { orphans: 4; }
+h1 { font-size: 2rem; }
+h2 { font-size: 1.8rem; }
+h3 { font-size: 1.6rem; }
+h4 { font-size: 1.4rem; }
+h5 { font-size: 1.2rem; }
+h6 { font-size: 1rem; }
+.md-math-block, .md-rawblock, h1, h2, h3, h4, h5, h6, p { margin-top: 1rem; margin-bottom: 1rem; }
+.hidden { display: none; }
+.md-blockmeta { color: rgb(204, 204, 204); font-weight: 700; font-style: italic; }
+a { cursor: pointer; }
+sup.md-footnote { padding: 2px 4px; background-color: rgba(238, 238, 238, 0.7); color: rgb(85, 85, 85); border-radius: 4px; cursor: pointer; }
+sup.md-footnote a, sup.md-footnote a:hover { color: inherit; text-transform: inherit; text-decoration: inherit; }
+#write input[type="checkbox"] { cursor: pointer; width: inherit; height: inherit; }
+figure { overflow-x: auto; margin: 1.2em 0px; max-width: calc(100% + 16px); padding: 0px; }
+figure > table { margin: 0px; }
+thead, tr { break-inside: avoid; break-after: auto; }
+thead { display: table-header-group; }
+table { border-collapse: collapse; border-spacing: 0px; width: 100%; overflow: auto; break-inside: auto; text-align: left; }
+table.md-table td { min-width: 32px; }
+.CodeMirror-gutters { border-right: 0px; background-color: inherit; }
+.CodeMirror-linenumber { user-select: none; }
+.CodeMirror { text-align: left; }
+.CodeMirror-placeholder { opacity: 0.3; }
+.CodeMirror pre { padding: 0px 4px; }
+.CodeMirror-lines { padding: 0px; }
+div.hr:focus { cursor: none; }
+#write pre { white-space: pre-wrap; }
+#write.fences-no-line-wrapping pre { white-space: pre; }
+#write pre.ty-contain-cm { white-space: normal; }
+.CodeMirror-gutters { margin-right: 4px; }
+.md-fences { font-size: 0.9rem; display: block; break-inside: avoid; text-align: left; overflow: visible; white-space: pre; background: inherit; position: relative !important; }
+.md-fences-adv-panel { width: 100%; margin-top: 10px; text-align: center; padding-top: 0px; padding-bottom: 8px; overflow-x: auto; }
+#write .md-fences.mock-cm { white-space: pre-wrap; }
+.md-fences.md-fences-with-lineno { padding-left: 0px; }
+#write.fences-no-line-wrapping .md-fences.mock-cm { white-space: pre; overflow-x: auto; }
+.md-fences.mock-cm.md-fences-with-lineno { padding-left: 8px; }
+.CodeMirror-line, twitterwidget { break-inside: avoid; }
+svg { break-inside: avoid; }
+.footnotes { opacity: 0.8; font-size: 0.9rem; margin-top: 1em; margin-bottom: 1em; }
+.footnotes + .footnotes { margin-top: 0px; }
+.md-reset { margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: top; background: 0px 0px; text-decoration: none; text-shadow: none; float: none; position: static; width: auto; height: auto; white-space: nowrap; cursor: inherit; -webkit-tap-highlight-color: transparent; line-height: normal; font-weight: 400; text-align: left; box-sizing: content-box; direction: ltr; }
+li div { padding-top: 0px; }
+blockquote { margin: 1rem 0px; }
+li .mathjax-block, li p { margin: 0.5rem 0px; }
+li blockquote { margin: 1rem 0px; }
+li { margin: 0px; position: relative; }
+blockquote > :last-child { margin-bottom: 0px; }
+blockquote > :first-child, li > :first-child { margin-top: 0px; }
+.footnotes-area { color: rgb(136, 136, 136); margin-top: 0.714rem; padding-bottom: 0.143rem; white-space: normal; }
+#write .footnote-line { white-space: pre-wrap; }
+@media print {
+  body, html { border: 1px solid transparent; height: 99%; break-after: avoid; break-before: avoid; font-variant-ligatures: no-common-ligatures; }
+  #write { margin-top: 0px; padding-top: 0px; border-color: transparent !important; padding-bottom: 0px !important; }
+  .typora-export * { -webkit-print-color-adjust: exact; }
+  .typora-export #write { break-after: avoid; }
+  .typora-export #write::after { height: 0px; }
+  .is-mac table { break-inside: avoid; }
+  .typora-export-show-outline .typora-export-sidebar { display: none; }
+}
+.footnote-line { margin-top: 0.714em; font-size: 0.7em; }
+a img, img a { cursor: pointer; }
+pre.md-meta-block { font-size: 0.8rem; min-height: 0.8rem; white-space: pre-wrap; background: rgb(204, 204, 204); display: block; overflow-x: hidden; }
+p > .md-image:only-child:not(.md-img-error) img, p > img:only-child { display: block; margin: auto; }
+#write.first-line-indent p > .md-image:only-child:not(.md-img-error) img { left: -2em; position: relative; }
+p > .md-image:only-child { display: inline-block; width: 100%; }
+#write .MathJax_Display { margin: 0.8em 0px 0px; }
+.md-math-block { width: 100%; }
+.md-math-block:not(:empty)::after { display: none; }
+.MathJax_ref { fill: currentcolor; }
+[contenteditable="true"]:active, [contenteditable="true"]:focus, [contenteditable="false"]:active, [contenteditable="false"]:focus { outline: 0px; box-shadow: none; }
+.md-task-list-item { position: relative; list-style-type: none; }
+.task-list-item.md-task-list-item { padding-left: 0px; }
+.md-task-list-item > input { position: absolute; top: 0px; left: 0px; margin-left: -1.2em; margin-top: calc(1em - 10px); border: none; }
+.math { font-size: 1rem; }
+.md-toc { min-height: 3.58rem; position: relative; font-size: 0.9rem; border-radius: 10px; }
+.md-toc-content { position: relative; margin-left: 0px; }
+.md-toc-content::after, .md-toc::after { display: none; }
+.md-toc-item { display: block; color: rgb(65, 131, 196); }
+.md-toc-item a { text-decoration: none; }
+.md-toc-inner:hover { text-decoration: underline; }
+.md-toc-inner { display: inline-block; cursor: pointer; }
+.md-toc-h1 .md-toc-inner { margin-left: 0px; font-weight: 700; }
+.md-toc-h2 .md-toc-inner { margin-left: 2em; }
+.md-toc-h3 .md-toc-inner { margin-left: 4em; }
+.md-toc-h4 .md-toc-inner { margin-left: 6em; }
+.md-toc-h5 .md-toc-inner { margin-left: 8em; }
+.md-toc-h6 .md-toc-inner { margin-left: 10em; }
+@media screen and (max-width: 48em) {
+  .md-toc-h3 .md-toc-inner { margin-left: 3.5em; }
+  .md-toc-h4 .md-toc-inner { margin-left: 5em; }
+  .md-toc-h5 .md-toc-inner { margin-left: 6.5em; }
+  .md-toc-h6 .md-toc-inner { margin-left: 8em; }
+}
+a.md-toc-inner { font-size: inherit; font-style: inherit; font-weight: inherit; line-height: inherit; }
+.footnote-line a:not(.reversefootnote) { color: inherit; }
+.reversefootnote { font-family: ui-monospace, sans-serif; }
+.md-attr { display: none; }
+.md-fn-count::after { content: "."; }
+code, pre, samp, tt { font-family: var(--monospace); }
+kbd { margin: 0px 0.1em; padding: 0.1em 0.6em; font-size: 0.8em; color: rgb(36, 39, 41); background: rgb(255, 255, 255); border: 1px solid rgb(173, 179, 185); border-radius: 3px; box-shadow: rgba(12, 13, 14, 0.2) 0px 1px 0px, rgb(255, 255, 255) 0px 0px 0px 2px inset; white-space: nowrap; vertical-align: middle; }
+.md-comment { color: rgb(162, 127, 3); opacity: 0.6; font-family: var(--monospace); }
+code { text-align: left; vertical-align: initial; }
+a.md-print-anchor { white-space: pre !important; border-width: initial !important; border-style: none !important; border-color: initial !important; display: inline-block !important; position: absolute !important; width: 1px !important; right: 0px !important; outline: 0px !important; background: 0px 0px !important; text-decoration: initial !important; text-shadow: initial !important; }
+.os-windows.monocolor-emoji .md-emoji { font-family: "Segoe UI Symbol", sans-serif; }
+.md-diagram-panel > svg { max-width: 100%; }
+[lang="flow"] svg, [lang="mermaid"] svg { max-width: 100%; height: auto; }
+[lang="mermaid"] .node text { font-size: 1rem; }
+table tr th { border-bottom: 0px; }
+video { max-width: 100%; display: block; margin: 0px auto; }
+iframe { max-width: 100%; width: 100%; border: none; }
+.highlight td, .highlight tr { border: 0px; }
+mark { background: rgb(255, 255, 0); color: rgb(0, 0, 0); }
+.md-html-inline .md-plain, .md-html-inline strong, mark .md-inline-math, mark strong { color: inherit; }
+.md-expand mark .md-meta { opacity: 0.3 !important; }
+mark .md-meta { color: rgb(0, 0, 0); }
+@media print {
+  .typora-export h1, .typora-export h2, .typora-export h3, .typora-export h4, .typora-export h5, .typora-export h6 { break-inside: avoid; }
+}
+.md-diagram-panel .messageText { stroke: none !important; }
+.md-diagram-panel .start-state { fill: var(--node-fill); }
+.md-diagram-panel .edgeLabel rect { opacity: 1 !important; }
+.md-fences.md-fences-math { font-size: 1em; }
+.md-fences-advanced:not(.md-focus) { padding: 0px; white-space: nowrap; border: 0px; }
+.md-fences-advanced:not(.md-focus) { background: inherit; }
+.typora-export-show-outline .typora-export-content { max-width: 1440px; margin: auto; display: flex; flex-direction: row; }
+.typora-export-sidebar { width: 300px; font-size: 0.8rem; margin-top: 80px; margin-right: 18px; }
+.typora-export-show-outline #write { --webkit-flex:2; flex: 2 1 0%; }
+.typora-export-sidebar .outline-content { position: fixed; top: 0px; max-height: 100%; overflow: hidden auto; padding-bottom: 30px; padding-top: 60px; width: 300px; }
+@media screen and (max-width: 1024px) {
+  .typora-export-sidebar, .typora-export-sidebar .outline-content { width: 240px; }
+}
+@media screen and (max-width: 800px) {
+  .typora-export-sidebar { display: none; }
+}
+.outline-content li, .outline-content ul { margin-left: 0px; margin-right: 0px; padding-left: 0px; padding-right: 0px; list-style: none; }
+.outline-content ul { margin-top: 0px; margin-bottom: 0px; }
+.outline-content strong { font-weight: 400; }
+.outline-expander { width: 1rem; height: 1.42857rem; position: relative; display: table-cell; vertical-align: middle; cursor: pointer; padding-left: 4px; }
+.outline-expander::before { content: ""; position: relative; font-family: Ionicons; display: inline-block; font-size: 8px; vertical-align: middle; }
+.outline-item { padding-top: 3px; padding-bottom: 3px; cursor: pointer; }
+.outline-expander:hover::before { content: ""; }
+.outline-h1 > .outline-item { padding-left: 0px; }
+.outline-h2 > .outline-item { padding-left: 1em; }
+.outline-h3 > .outline-item { padding-left: 2em; }
+.outline-h4 > .outline-item { padding-left: 3em; }
+.outline-h5 > .outline-item { padding-left: 4em; }
+.outline-h6 > .outline-item { padding-left: 5em; }
+.outline-label { cursor: pointer; display: table-cell; vertical-align: middle; text-decoration: none; color: inherit; }
+.outline-label:hover { text-decoration: underline; }
+.outline-item:hover { border-color: rgb(245, 245, 245); background-color: var(--item-hover-bg-color); }
+.outline-item:hover { margin-left: -28px; margin-right: -28px; border-left: 28px solid transparent; border-right: 28px solid transparent; }
+.outline-item-single .outline-expander::before, .outline-item-single .outline-expander:hover::before { display: none; }
+.outline-item-open > .outline-item > .outline-expander::before { content: ""; }
+.outline-children { display: none; }
+.info-panel-tab-wrapper { display: none; }
+.outline-item-open > .outline-children { display: block; }
+.typora-export .outline-item { padding-top: 1px; padding-bottom: 1px; }
+.typora-export .outline-item:hover { margin-right: -8px; border-right: 8px solid transparent; }
+.typora-export .outline-expander::before { content: "+"; font-family: inherit; top: -1px; }
+.typora-export .outline-expander:hover::before, .typora-export .outline-item-open > .outline-item > .outline-expander::before { content: "−"; }
+.typora-export-collapse-outline .outline-children { display: none; }
+.typora-export-collapse-outline .outline-item-open > .outline-children, .typora-export-no-collapse-outline .outline-children { display: block; }
+.typora-export-no-collapse-outline .outline-expander::before { content: "" !important; }
+.typora-export-show-outline .outline-item-active > .outline-item .outline-label { font-weight: 700; }
+.md-inline-math-container mjx-container { zoom: 0.95; }
+mjx-container { break-inside: avoid; }
+
+
+/*
+fonts initalization
+*/
+@import url(https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap);
+@import url(https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@500&display=swap);
+@page {
+	size: A4;
+	margin: 8mm 0mm;
+}
+
+/*
+	核心配置区
+*/
+:root {
+	/*
+		字体
+	*/
+	--sans-serif-font: "Noto Sans SC Medium", "Noto Sans SC", sans-serif;
+	--monospace-font: "Source Code Pro Regular", "Source Code Pro", monospace;
+	
+	/*
+		基础颜色区：供宏观配置区使用，不可直接由专项配置区或具体元素使用
+	*/
+	--color-black-light: #969696;
+	--color-black-deep: #333333;
+	--color-black: #000000;
+	--color-red: #FF0000;
+	--color-yellow: #ffff00;
+	--color-gray-light: #d3d3d3;
+	--color-gray: #c0c0c0;
+	--color-gray-deep: #a9a9a9;
+	--color-gray-most: #808080;
+	--color-white: #FFFFFF;
+	--color-white-snow: #fffafa;
+	--color-white-honey: #f0fff0;
+	--color-white-ice: #f5fffa;
+	--color-white-azure: #f0ffff;
+	--color-white-mi: #fffff0;
+	--color-blue: #04BAFB;
+	--color-blue-tiny: #F5FDFD;
+	--color-blue-light: #D6FCFD;
+	--color-blue-deep: #ADE8FD;
+	--color-green-deep: #282C34;
+	
+	
+	/*
+		宏观配置区：供专项配置区使用，不可由具体元素直接调用
+		此区域为用户自定义主题全局配置区域
+		
+	=============================本文件内，只允许修改被本分割线包围的配色方案，不同的配色方案会有不同的主题效果；变量具体的实际意义可根据英文翻译合理猜理解；其余内容禁止修改=============================*/
+		
+	
+	--color-context-background: var(--color-white);
+	--color-context-text: var(--color-black-deep);
+	--color-menu-background: var(--color-white-ice);
+	--color-menu-outline-text: var(--color-black);
+	--color-menu-file-list-text: var(--color-black);
+	--color-aux-one: var(--color-blue);
+	--color-aux-two: var(--color-blue-light);
+	--color-code: var(--color-white);
+	--color-code-background: var(--color-green-deep);
+	--color-shadow: var(--color-black-light);
+	--color-reference: var(--color-gray-deep);
+	--color-placeholder: var(--color-blue-deep);
+	--color-mark: var(--color-yellow);
+	--color-del: var(--color-red);
+	
+	/* 主题二 */
+	/*
+	--color-aux-one: #14B6F6;
+	--color-aux-two: #85E0FF;
+	--color-context-background: #DAF5FF;
+	--color-context-text: #000000;
+	--color-menu-background: #85E0FF;
+	--color-menu-outline-text: #000000;
+	--color-menu-file-list-text: #96959E;
+	--color-code: #96959E;
+	--color-code-background: var(--color-green-deep);
+	--color-shadow: var(--color-black-light);
+	--color-reference: var(--color-gray-deep);
+	--color-placeholder: var(--color-menu-outline-text);
+	--color-mark: var(--color-yellow);
+	--color-del: var(--color-red);
+	*/
+	
+	/* ========================================================== */
+	
+	
+	/*
+		专项配置区：供具体元素直接调用
+	*/
+	--context-background-color: var(--color-context-background);
+	--context-text-color: var(--color-context-text);
+	--menu-background-color: var(--color-menu-background);
+	--menu-outline-text-color: var(--color-menu-outline-text);
+	--menu-file-list-text-color: var(--color-menu-file-list-text);
+	--active-file-bg-color: var(--selection-color);
+	--active-file-border-color: var(--border-color);
+	--active-file-text-color: var(--selection-menu-file-color);
+	--h-sign: var(--color-aux-one);
+	--h-sign-aux: var(--color-aux-two);
+	--table-border-color: var(--border-color);
+	--tr-bg-color: var(--color-aux-two);
+	--tr-hover-bg-color: var(--selection-background-color);
+	--th-bg-color: var(--color-aux-two);
+	--selection-color: var(--color-context-background);
+	--selection-background-color: var(--color-aux-one);
+	--selection-menu-file-color: var(--color-aux-one);
+	--selection-bg-color: var(--selection-background-color);
+	--selection-text-color: var(--selection-color);
+	--select-text-bg-color: var(--selection-background-color);
+	--select-text-font-color: var(--selection-color);
+	--search-select-background-color: var(--menu-background-color);
+    --search-select-text-color: var(--color-aux-two);
+    --search-select-background-hover-color: var(--color-context-background);
+    --search-select-text-hover-color: var(--color-aux-one);
+    /* 特有属性，typora直接支持：内容区搜索当前选中背景 */
+    --search-select-bg-color: var(--selection-background-color);
+    --split-color: var(--color-aux-two);
+    --scrollbar-color : var(--color-aux-two);
+    --scrollbar-hover-color: var(--color-aux-one);
+    --a-color: var(--selection-color);
+    --a-hover-color: var(--selection-background-color);
+    --mark-color: var(--color-yellow);
+	--del-color: var(--color-red);
+    --code-background-color: var(--color-code-background);
+    --code-color: var(--color-code);
+    --border-color: var(--color-aux-one);
+    --shadow-color: var(--color-shadow);
+    --reference-color: var(--color-reference);
+    --placeholder-color: var(--color-placeholder);
+    --block-shadow: 0.15rem 0.15rem 0.5rem var(--color-shadow);
+}
+
+html {
+	font-size: 16px;
+	background-color: var(--context-background-color);
+	color: var(--context-text-color);
+}
+
+/*
+	写区
+*/
+#write {
+	background-color: var(--context-background-color);
+	color: var(--context-text-color);
+}
+
+/*
+	导航栏区 与 写区 的分界线
+*/
+#typora-sidebar-resizer {
+	background-color: var(--menu-background-color);
+    color: var(--menu-background-color);
+}
+
+/*
+	导航区 / 侧栏
+*/
+#typora-sidebar {
+	background-color: var(--menu-background-color);
+    color: var(--menu-outline-text-color);
+}
+
+/*
+	导航栏 / 侧栏 大纲区
+*/
+#sidebar-content {
+	background-color: var(--menu-background-color);
+    color: var(--menu-outline-text-color);
+}
+
+/*
+	导航栏文件列表样式
+*/
+#file-library-list-children {
+	border-bottom: 1px solid var(--split-color);
+	color: var(--menu-file-list-text-color);
+	background-color: var(--menu-background-color);
+}
+
+/*
+	隐藏导航栏文件列表中的每个文件的详细信息
+*/
+.file-list-item-summary {
+	display: none;
+	visibility: hidden;
+}
+
+/*
+	设置大纲内容被选中的颜色
+*/
+.outline-item-active {
+	color: var(--selection-background-color);
+}
+
+/*
+	导航栏大纲切换样式
+*/
+#info-panel-tab-outline {
+	color: var(--selection-background-color);
+}
+
+/*
+	导航栏文件切换样式
+*/
+#info-panel-tab-file {
+	color: var(--selection-background-color);
+}
+
+/*
+	导航栏从文件鼠标滚动至文件查找样式
+*/
+#info-panel-tab-search {
+	color: var(--selection-background-color);
+}
+
+/*
+	导航栏搜索框外围
+*/
+#file-library-search {
+	height: 60px;
+}
+
+/*
+	导航栏搜索输入框外围
+*/
+#file-library-search-panel {
+	margin-top:10px;
+}
+
+/*
+	隐藏导航栏搜索框的关闭按钮
+*/
+#close-outline-filter-btn {
+	display: none;
+	visibility: hidden;
+}
+
+/*
+	导航栏搜索输入框
+*/
+#file-library-search-input {
+	outline-style: none ;
+    border: 1px solid var(--selection-background-color);
+    border-radius: 5px;
+    padding: 15px 15px;
+    color: var(--search-select-text-color);
+    background: var(--search-select-background-color);
+}
+#file-library-search-input:focus{
+	background-color: var(--search-select-background-hover-color);
+	color: var(--search-select-text-hover-color);
+    border-color: var(--border-color);
+    outline: 0;
+    -webkit-box-shadow: inset 0 0px 6px var(--border-color),0 0 6px var(--border-color);
+    box-shadow: inset 0 0px 6px var(--border-color),0 0 6px var(--border-color);
+}
+/*
+	导航栏搜索框提示语字体样式
+*/
+input::-webkit-input-placeholder {
+	color: var(--placeholder-color);
+}
+
+/*
+	内容区（写区）全局搜索集体选中（非当前选中）样式
+*/
+.md-search-hit {
+    color: var(--menu-outline-text-color);
+    background-color: var(--selection-background-color);
+}
+
+#write {
+	font-family: var(--sans-serif-font);
+	max-width: 60rem;
+	padding-left: 2rem;
+	padding-right: 2rem;
+}
+
+/*
+	鼠标悬浮在导航栏任意菜单上后菜单的样式
+*/
+.outline-item:hover {
+    color: var(--selection-background-color);
+    background-color: var(--menu-background-color);
+}
+
+/*
+	去掉 鼠标悬浮时导航栏的下划线
+*/
+.outline-label:hover {
+    text-decoration: none;
+}
+
+/*
+	yaml header settings
+	YAML Front Matter
+
+	YAML
+	YAML是YAML Ain't Markup Language递归缩写，即YAML不是标记语言的意思
+	YAML是便于人阅读基于unicode编码的各种语言的序列号标准。它的用途广泛，用于配置文件，日志文件，跨语言数据共享，对象持久化，复杂的数据结构
+
+	Front Matter 
+	前言；前文部分
+	在YAML Front Matter中可以表明文章的信息（方便各种语言获取），设置一些环境中的格式，定义一些变量，甚至自定义一些变量（方便在不同语言环境下，达到想要的效果）
+*/
+#write pre.md-meta-block {
+	font-family: var(--monospace-font);
+	font-size: 1rem;
+	text-align: left;
+	padding: 0.6rem;
+	color: var(--code-color);
+	background-color: var(--code-background-color);
+	border-radius: 0.4rem;
+}
+
+/*
+	headers settings
+*/
+#write h1 {
+	font-size: 2.2rem;
+	text-align: center;
+	text-shadow: 0.15rem 0.15rem 0.3rem var(--shadow-color);
+}
+#write h2 {
+	font-size: 1.8rem;
+	margin-top: 1.8rem;
+	margin-left: -1.5rem;
+	margin-right: -1.5rem;
+	background-color: var(--h-sign-aux);
+	padding-left: 1rem;
+	padding-right: 1rem;
+	border-left: 0.5rem solid var(--h-sign);
+	border-right: 0.5rem solid var(--h-sign);
+	/*指定背景为椭圆*/
+	border-radius: 0.4rem;
+}
+#write h3 {
+	margin-left: 0rem;
+	font-size: 1.6rem;
+}
+h3:before {
+	/*标题左边logo中的文本*/
+	content: "*";
+	text-align: center;
+	/*设置 logo 垂直居中 要与字体高度一致方可*/
+	line-height: 1.6rem;
+	/*确保标题和logo在同一行*/
+	display: inline-block;
+	/*标题与logo间距*/
+	margin-right: 0.2em;
+	width: 1.6rem;
+	height: 1.6rem;
+	color: var(--h-sign);
+	background: var(--h-sign);
+}
+
+#write h4 {
+	margin-left: 1rem;
+	font-size: 1.5rem;
+}
+h4:before {
+	/*标题左边logo中的文本*/
+	content: "*";
+	text-align: center;
+	/*设置 logo 垂直居中 要与字体高度一致方可*/
+	line-height: 1.5rem;
+	/*确保标题和logo在同一行*/
+	display: inline-block;
+	/*标题与logo间距*/
+	margin-right: 0.2em;
+	/*border-radius: 50%;*/
+	width: 1.5rem;
+	height: 1.5rem;
+	color: var(--h-sign-aux);
+	background: var(--h-sign-aux);
+}
+
+#write h5 {
+	margin-left: 2rem;
+	font-size: 1.4rem;
+}
+h5:before {
+	/*标题左边logo中的文本*/
+	content: "*";
+	text-align: center;
+	/*设置 logo 垂直居中 要与字体高度一致方可*/
+	line-height: 1.4rem;
+	/*确保标题和logo在同一行*/
+	display: inline-block;
+	/*标题与logo间距*/
+	margin-right: 0.2em;
+	border-radius: 50%;
+	width: 1.4rem;
+	height: 1.4rem;
+	color: var(--h-sign);
+	background: var(--h-sign);
+}
+
+#write h6 {
+	margin-left: 3rem;
+	font-size: 1.3rem;
+}
+h6:before {
+	/*标题左边logo中的文本*/
+	content: "*";
+	text-align: center;
+	/*设置 logo 垂直居中 要与字体高度一致方可*/
+	line-height: 1.3rem;
+	/*确保标题和logo在同一行*/
+	display: inline-block;
+	/*标题与logo间距*/
+	margin-right: 0.2em;
+	border-radius: 50%;
+	width: 1.3rem;
+	height: 1.3rem;
+	color: var(--h-sign-aux);
+	background: var(--h-sign-aux);
+}
+
+/*
+	表格设置
+*/
+#write table {
+	border-collapse: collapse;
+}
+#write table thead th{
+	background-color: var(--table-border-color);
+	color: var(--color-context-background);
+}
+#write table th {
+	background-color: var(--th-bg-color);
+}
+#write table th, td {
+	text-align: center;
+	padding: 0.5rem;
+}
+#write table td {
+	border-left: 0.1rem solid var(--table-border-color);
+	border-right: 0.1rem solid var(--table-border-color);
+}
+#write table tbody tr:nth-child(even) {
+	background-color: var(--tr-bg-color);
+}
+#write table tbody tr:hover {
+	background-color: var(--tr-hover-bg-color);
+	color: var(--tr-bg-color);
+}
+
+/*
+	无序列表样式
+*/
+#write ul li {
+  list-style: none;
+  -webkit-transition: .12s;
+          transition: .12s;
+}
+#write ul li:hover {
+  color: var(--selection-background-color);
+}	
+/*
+	为了区分无序列表和任务列表特意加入了属性选择器
+*/
+#write ul li[class=md-list-item]::before {
+  position: absolute;
+  content: '\2022';
+  font-family: Arial;
+  color: var(--selection-background-color);
+  text-align: center;
+  font-size: 2em;
+  opacity: .5;
+  line-height: .75;
+  -webkit-transition: .5s;
+          transition: .5s;
+}
+#write ul li:hover::before {
+  -webkit-transform: scale(2);
+      -ms-transform: scale(2);
+          transform: scale(2);
+  opacity: 1;
+  text-shadow: 0 0 4px;
+  -webkit-transition: .1s;
+          transition: .1s;
+}
+/*
+	有序列表样式
+*/
+#write ol li {
+}
+#write ol li:hover {
+  color: var(--selection-background-color);
+}	
+#write ol li::before {
+  content: '';
+}
+#write ol li:hover::before {
+  -webkit-transform: none;
+      -ms-transform: none;
+          transform: none;
+  background: var(--selection-background-color);
+}
+
+/*
+	任务列表设置
+	单选框设置
+*/
+#write .task-list-item input[type = "checkbox"] {
+	width: 0;
+	height: 0;
+}
+
+/*
+	选中以前的边框样式
+*/
+#write .task-list-item input[type = "checkbox"]::before, #write input[type = "checkbox"]:checked::before {
+	content: "";
+	display: inline-block;
+	vertical-align: middle;
+	position: relative;
+	margin-left: 4rem;
+	left: -0.15rem;
+	top: -0.41rem;
+	width: 0.8rem;
+	height: 0.8rem;
+	border: 0.1rem solid var(--selection-background-color);
+	border-radius: 50%;
+	transition: all 0.2s;
+}
+
+/*
+	选中以前，鼠标悬浮于选中框时，选中框中间点的样式
+*/
+#write .task-list-item input[type='checkbox']:hover::before {
+	transition: all 0.2s;
+	background-color: var(--selection-background-color);
+}
+
+/*
+	选中以后选中框中间点的样式
+*/
+#write .task-list-item input[type = "checkbox"]:checked::before {
+	padding: 0.1rem;
+	background-clip: content-box;
+	background-color: var(--selection-background-color);
+}
+
+/*
+	选中以后文本和选中线的样式
+*/
+#write .task-list-item input[type = "checkbox"]:checked + p {
+	text-decoration: line-through;
+	color: var(--selection-background-color);
+}
+
+
+/*
+	引用 设置
+*/
+#write blockquote {
+	color: var(--reference-color);
+	border-left: 0.25rem solid var(--split-color);
+	border-right: 0.25rem solid var(--split-color);
+	border-top: 0.25rem solid var(--split-color);
+	border-bottom: 0.25rem solid var(--split-color);
+	padding: 0.5rem 1rem 0.6rem 1rem;
+}
+#write blockquote::before {
+	display: block;
+	height: 2rem;
+	width: 1.5rem;
+	content: "✎";
+	font-size: 1.2rem;
+	color: var(--selection-background-color);
+	background: var(--selection-color);
+}
+
+/*
+	水平线设置
+*/
+#write hr {
+	margin-top: 2rem;
+	margin-bottom: 2rem;
+	background-color: var(--split-color);
+	height: 0.13rem;
+	border: 0;
+}
+
+#write p {
+	font-size: 1rem;
+	line-height: 1.6rem;
+	margin-left: 4rem;
+}
+
+#write p:hover {
+	 /*color: var(--selection-background-color);
+	 font-size: 1.1rem;*/
+}
+
+/*
+	代码块设置
+*/
+#write .md-fences {
+	font-family: var(--monospace-font);
+	font-size: 1rem;
+	padding: 0.6rem;
+	background-color: var(--code-background-color);
+	border-radius: 0.4rem;
+	box-shadow: var(--block-shadow);
+}
+.md-fences {
+	background-color: var(--code-background-color);
+}
+/*
+	行内代码块
+*/
+code {
+  background-color: var(--code-background-color);
+  border-radius: 5px;
+  padding: 16px;
+  color: var(--code-color);
+}
+
+/*
+	公式设置
+*/
+#write mjx-container {
+	font-size: 1.1rem;
+}
+
+/*
+	它们是具有某些代码语言的特殊代码片段
+*/
+#write pre[lang=’sequence’], #write pre[lang=’flow’], #write pre[lang=’mermaid’] {
+	background-color: var(--code-background-color);
+	border-radius: 0.4rem;
+	box-shadow: var(--block-shadow);
+}
+
+/*
+	inline codes settings
+*/
+#write code {
+	font-family: var(--monospace-font);
+	margin-left: 0.25rem;
+	margin-right: 0.25rem;
+	padding: 0.05rem 0.3rem;
+	background-color: var(--code-background-color);
+	border-radius: 0.4rem;
+	box-shadow: 0.13rem 0.13rem 0.26rem var(--shadow-color);
+}
+
+/*
+	urls settings
+*/
+#write a {
+	color: var(--context-text-color);
+	text-decoration: none;
+}
+#write a:hover {
+	color: var(--a-hover-color);
+	text-decoration: none;	
+}
+#write a:before {
+	/*标题左边logo中的文本*/
+	content: "☁";
+	text-align: center;
+	/*设置 logo 垂直居中 要与字体高度一致方可*/
+	line-height: 1.6rem;
+	/*确保标题和logo在同一行*/
+	display: inline-block;
+	/*标题与logo间距*/
+	margin-right: 0.2em;
+	width: 1.6rem;
+	height: 1.6rem;
+	color: var(--h-sign);
+}
+
+/*
+	images settings
+*/
+#write img {
+	display: block;
+	margin: 0 auto;
+	border: 0;
+	border-radius: 5px;
+	box-shadow: var(--block-shadow);
+}
+
+/*
+	高亮 == info ==
+*/
+#write mark {
+	background-color: var(--mark-color);
+}
+
+/*
+	被删除线修饰的文本样式 ~ ~ info ~ ~
+*/
+#write del {
+	color: var(--del-color);
+}
+
+/*
+	内容区选中后样式
+*/
+#write ::selection {
+	background-color: var(--selection-bg-color);
+}
+
+/*
+	自定义代码款下面选择高亮语法规则的样式
+*/
+.code-tooltip {
+	background-color: var(--code-background-color);
+	color: var(--code-color);
+}
+
+/*
+	自定义滚动条样式
+*/
+::-webkit-scrollbar-thumb {
+    background: var(--scrollbar-color);
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: var(--scrollbar-hover-color);
+}
+
+::-webkit-scrollbar-thumb:active {
+    background: var(--scrollbar-hover-color);
+}
+
+
+
+/*
+  Name:       material
+  Author:     Mattia Astorino (http://github.com/equinusocio)
+  Website:    https://material-theme.site/
+*/
+
+.cm-s-inner.CodeMirror {
+  background-color: #282C34;
+  color: #EEFFFF;
+}
+
+.cm-s-inner .CodeMirror-gutters {
+  background: #263238;
+  color: #546E7A;
+  border: none;
+}
+
+.cm-s-inner .CodeMirror-guttermarker,
+.cm-s-inner .CodeMirror-guttermarker-subtle,
+.cm-s-inner .CodeMirror-linenumber {
+  color: #546E7A;
+}
+
+.cm-s-inner .CodeMirror-cursor {
+  border-left: 1px solid #FFCC00;
+}
+.cm-s-inner.cm-fat-cursor .CodeMirror-cursor {
+  background-color: #5d6d5c80 !important;
+}
+.cm-s-inner .cm-animate-fat-cursor {
+  background-color: #5d6d5c80 !important;
+}
+
+.cm-s-inner div.CodeMirror-selected {
+  background: rgba(128, 203, 196, 0.2);
+}
+
+.cm-s-inner.CodeMirror-focused div.CodeMirror-selected {
+  background: rgba(128, 203, 196, 0.2);
+}
+
+.cm-s-inner .CodeMirror-line::selection,
+.cm-s-inner .CodeMirror-line>span::selection,
+.cm-s-inner .CodeMirror-line>span>span::selection {
+  background: rgba(128, 203, 196, 0.2);
+}
+
+.cm-s-inner .CodeMirror-line::-moz-selection,
+.cm-s-inner .CodeMirror-line>span::-moz-selection,
+.cm-s-inner .CodeMirror-line>span>span::-moz-selection {
+  background: rgba(128, 203, 196, 0.2);
+}
+
+.cm-s-inner .CodeMirror-activeline-background {
+  background: rgba(0, 0, 0, 0.5);
+}
+
+.cm-s-inner .cm-keyword {
+  color: #C792EA;
+}
+
+.cm-s-inner .cm-operator {
+  color: #89DDFF;
+}
+
+.cm-s-inner .cm-variable-2 {
+  color: #EEFFFF;
+}
+
+.cm-s-inner .cm-variable-3,
+.cm-s-inner .cm-type {
+  color: #f07178;
+}
+
+.cm-s-inner .cm-builtin {
+  color: #FFCB6B;
+}
+
+.cm-s-inner .cm-atom {
+  color: #F78C6C;
+}
+
+.cm-s-inner .cm-number {
+  color: #FF5370;
+}
+
+.cm-s-inner .cm-def {
+  color: #82AAFF;
+}
+
+.cm-s-inner .cm-string {
+  color: #C3E88D;
+}
+
+.cm-s-inner .cm-string-2 {
+  color: #f07178;
+}
+
+.cm-s-inner .cm-comment {
+  color: #546E7A;
+}
+
+.cm-s-inner .cm-variable {
+  color: #f07178;
+}
+
+.cm-s-inner .cm-tag {
+  color: #FF5370;
+}
+
+.cm-s-inner .cm-meta {
+  color: #FFCB6B;
+}
+
+.cm-s-inner .cm-attribute {
+  color: #C792EA;
+}
+
+.cm-s-inner .cm-property {
+  color: #C792EA;
+}
+
+.cm-s-inner .cm-qualifier {
+  color: #DECB6B;
+}
+
+.cm-s-inner .cm-variable-3,
+.cm-s-inner .cm-type {
+  color: #DECB6B;
+}
+
+
+.cm-s-inner .cm-error {
+  color: rgba(255, 255, 255, 1.0);
+  background-color: #FF5370;
+}
+
+.cm-s-inner .CodeMirror-matchingbracket {
+  text-decoration: underline;
+  color: white !important;
+}
+
+</style><title>List of Espresso</title>
+</head>
+<body class='typora-export os-windows'><div class='typora-export-content'>
+<div id='write'  class=''><p><img src="https://niceboy.online/insight/public/Espresso/PHOTOS/show-cover-small.png" referrerpolicy="no-referrer" alt="img"></p><p>&nbsp;</p><h3 id='april-2023'><span>April 2023</span></h3><p><a href='https://niceboy.online/insight/public/Espresso/Espresso_April_1_2023.html'><span>April 1, 2023</span></a></p><p>&nbsp;</p><hr /><p>&nbsp;</p><h3 id='march-2023'><span>March 2023</span></h3><p><a href='https://niceboy.online/insight/public/Espresso/Espresso_March_31_2023.html'><span>March 31, 2023</span></a>
+<a href='https://niceboy.online/insight/public/Espresso/Espresso_March_30_2023.html'><span>March 30, 2023</span></a>
+<a href='https://niceboy.online/insight/public/Espresso/Espresso_March_29_2023.html'><span>March 29, 2023</span></a>
+<a href='https://niceboy.online/insight/public/Espresso/Espresso_March_28_2023.html'><span>March 28, 2023</span></a>
+<a href='https://niceboy.online/insight/public/Espresso/Espresso_March_27_2023.html'><span>March 27, 2023</span></a>
+<a href='https://niceboy.online/insight/public/Espresso/Espresso_March_25_2023.html'><span>March 25, 2023</span></a>
+<a href='https://niceboy.online/insight/public/Espresso/Espresso_March_24_2023.html'><span>March 24, 2023</span></a>
+<a href='https://niceboy.online/insight/public/Espresso/Espresso_March_23_2023.html'><span>March 23, 2023</span></a>
+<a href='https://niceboy.online/insight/public/Espresso/Espresso_March_22_2023.html'><span>March 22, 2023</span></a>
+<a href='https://niceboy.online/insight/public/Espresso/Espresso_March_21_2023.html'><span>March 21, 2023</span></a>
+<a href='https://niceboy.online/insight/public/Espresso/Espresso_March_20_2023.html'><span>March 20, 2023</span></a>
+<a href='https://niceboy.online/insight/public/Espresso/Espresso_March_18_2023.html'><span>March 18, 2023</span></a>
+<a href='https://niceboy.online/insight/public/Espresso/Espresso_March_17_2023.html'><span>March 17, 2023</span></a>
+<a href='https://niceboy.online/insight/public/Espresso/Espresso_March_16_2023.html'><span>March 16, 2023</span></a>
+<a href='https://niceboy.online/insight/public/Espresso/Espresso_March_15_2023.html'><span>March 15, 2023</span></a>
+<a href='https://niceboy.online/insight/public/Espresso/Espresso_March_14_2023.html'><span>March 14, 2023</span></a>
+<a href='https://niceboy.online/insight/public/Espresso/Espresso_March_13_2023.html'><span>March 13, 2023</span></a>
+<a href='https://niceboy.online/insight/public/Espresso/Espresso_March_11_2023.html'><span>March 11, 2023</span></a>
+<a href='https://niceboy.online/insight/public/Espresso/Espresso_March_10_2023.html'><span>March 10, 2023</span></a>
+<a href='https://niceboy.online/insight/public/Espresso/Espresso_March_9_2023.html'><span>March 9, 2023</span></a>
+<a href='https://niceboy.online/insight/public/Espresso/Espresso_March_8_2023.html'><span>March 8, 2023</span></a>
+<a href='https://niceboy.online/insight/public/Espresso/Espresso_March_7_2023.html'><span>March 7, 2023</span></a>
+<a href='https://niceboy.online/insight/public/Espresso/Espresso_March_6_2023.html'><span>March 6, 2023</span></a>
+<a href='https://niceboy.online/insight/public/Espresso/Espresso_March_4_2023.html'><span>March 4, 2023</span></a>
+<a href='https://niceboy.online/insight/public/Espresso/Espresso_March_3_2023.html'><span>March 3, 2023</span></a>
+<a href='https://niceboy.online/insight/public/Espresso/Espresso_March_2_2023.html'><span>March 2, 2023</span></a>
+<a href='https://niceboy.online/insight/public/Espresso/Espresso_March_1_2023.html'><span>March 1, 2023</span></a></p><hr /><p>&nbsp;</p><h3 id='february-2023'><span>February 2023</span></h3><p><a href='https://niceboy.online/insight/public/Espresso/Espresso_February_28_2023.html'><span>February 28, 2023</span></a>
+<a href='https://niceboy.online/insight/public/Espresso/Espresso_February_27_2023.html'><span>February 27, 2023</span></a>
+<a href='https://niceboy.online/insight/public/Espresso/Espresso_February_25_2023.html'><span>February 25, 2023</span></a>
+<a href='https://niceboy.online/insight/public/Espresso/Espresso_February_24_2023.html'><span>February 24, 2023</span></a>
+<a href='https://niceboy.online/insight/public/Espresso/Espresso_February_23_2023.html'><span>February 23, 2023</span></a>
+<a href='https://niceboy.online/insight/public/Espresso/Espresso_February_22_2023.html'><span>February 22, 2023</span></a>
+<a href='https://niceboy.online/insight/public/Espresso/Espresso_February_21_2023.html'><span>February 21, 2023</span></a>
+<a href='https://niceboy.online/insight/public/Espresso/Espresso_February_20_2023.html'><span>February 20, 2023</span></a>
+<a href='https://niceboy.online/insight/public/Espresso/Espresso_February_18_2023.html'><span>February 18, 2023</span></a>
+<a href='https://niceboy.online/insight/public/Espresso/Espresso_February_17_2023.html'><span>February 17, 2023</span></a>
+<a href='https://niceboy.online/insight/public/Espresso/Espresso_February_16_2023.html'><span>February 16, 2023</span></a>
+<a href='https://niceboy.online/insight/public/Espresso/Espresso_February_15_2023.html'><span>February 15, 2023</span></a>
+<a href='https://niceboy.online/insight/public/Espresso/Espresso_February_14_2023.html'><span>February 14, 2023</span></a>
+<a href='https://niceboy.online/insight/public/Espresso/Espresso_February_13_2023.html'><span>February 13, 2023</span></a>
+<a href='https://niceboy.online/insight/public/Espresso/Espresso_February_11_2023.html'><span>February 11, 2023</span></a>
+<a href='https://niceboy.online/insight/public/Espresso/Espresso_February_10_2023.html'><span>February 10, 2023</span></a>
+<a href='https://niceboy.online/insight/public/Espresso/Espresso_February_9_2023.html'><span>February 9, 2023</span></a>
+<a href='https://niceboy.online/insight/public/Espresso/Espresso_February_8_2023.html'><span>February 8, 2023</span></a>
+<a href='https://niceboy.online/insight/public/Espresso/Espresso_February_7_2023.html'><span>February 7, 2023</span></a>
+<a href='https://niceboy.online/insight/public/Espresso/Espresso_February_6_2023.html'><span>February 6, 2023</span></a>
+<a href='https://niceboy.online/insight/public/Espresso/Espresso_February_4_2023.html'><span>February 4, 2023</span></a>
+<a href='https://niceboy.online/insight/public/Espresso/Espresso_February_3_2023.html'><span>February 3, 2023</span></a>
+<a href='https://niceboy.online/insight/public/Espresso/Espresso_February_2_2023.html'><span>February 2, 2023</span></a>
+<a href='https://niceboy.online/insight/public/Espresso/Espresso_February_1_2023.html'><span>February 1, 2023</span></a></p><p>&nbsp;</p><hr /><p>&nbsp;</p><h3 id='january-2023'><span>January 2023</span></h3><p><a href='https://niceboy.online/insight/public/Espresso/Espresso_January_31_2023.html'><span>January 31, 2023</span></a>
+<a href='https://niceboy.online/insight/public/Espresso/Espresso_January_30_2023.html'><span>January 30, 2023</span></a>
+<a href='https://niceboy.online/insight/public/Espresso/Espresso_January_28_2023.html'><span>January 28, 2023</span></a>
+<a href='https://niceboy.online/insight/public/Espresso/Espresso_January_27_2023.html'><span>January 27, 2023</span></a>
+<a href='https://niceboy.online/insight/public/Espresso/Espresso_January_26_2023.html'><span>January 26, 2023</span></a>
+<a href='https://niceboy.online/insight/public/Espresso/Espresso_January_25_2023.html'><span>January 25, 2023</span></a>
+<a href='https://niceboy.online/insight/public/Espresso/Espresso_January_24_2023.html'><span>January 24, 2023</span></a>
+<a href='https://niceboy.online/insight/public/Espresso/Espresso_January_23_2023.html'><span>January 23, 2023</span></a>
+<a href='https://niceboy.online/insight/public/Espresso/Espresso_January_21_2023.html'><span>January 21, 2023</span></a>
+<a href='https://niceboy.online/insight/public/Espresso/Espresso_January_20_2023.html'><span>January 20, 2023</span></a>
+<a href='https://niceboy.online/insight/public/Espresso/Espresso_January_19_2023.html'><span>January 19, 2023</span></a>
+<a href='https://niceboy.online/insight/public/Espresso/Espresso_January_18_2023.html'><span>January 18, 2023</span></a>
+<a href='https://niceboy.online/insight/public/Espresso/Espresso_January_17_2023.html'><span>January 17, 2023</span></a>
+<a href='https://niceboy.online/insight/public/Espresso/Espresso_January_16_2023.html'><span>January 16, 2023</span></a>
+<a href='https://niceboy.online/insight/public/Espresso/Espresso_January_14_2023.html'><span>January 14, 2023</span></a>
+<a href='https://niceboy.online/insight/public/Espresso/Espresso_January_13_2023.html'><span>January 13, 2023</span></a>
+<a href='https://niceboy.online/insight/public/Espresso/Espresso_January_12_2023.html'><span>January 12, 2023</span></a>
+<a href='https://niceboy.online/insight/public/Espresso/Espresso_January_11_2023.html'><span>January 11, 2023</span></a>
+<a href='https://niceboy.online/insight/public/Espresso/Espresso_January_10_2023.html'><span>January 10, 2023</span></a>
+<a href='https://niceboy.online/insight/public/Espresso/Espresso_January_9_2023.html'><span>January 9, 2023</span></a>
+<a href='https://niceboy.online/insight/public/Espresso/Espresso_January_7_2023.html'><span>January 7, 2023</span></a>
+<a href='https://niceboy.online/insight/public/Espresso/Espresso_January_6_2023.html'><span>January 6, 2023</span></a>
+<a href='https://niceboy.online/insight/public/Espresso/Espresso_January_5_2023.html'><span>January 5, 2023</span></a>
+<a href='https://niceboy.online/insight/public/Espresso/Espresso_January_4_2023.html'><span>January 4, 2023</span></a>
+<a href='https://niceboy.online/insight/public/Espresso/Espresso_January_3_2023.html'><span>January 3, 2023</span></a>
+<a href='https://niceboy.online/insight/public/Espresso/Espresso_January_2_2023.html'><span>January 2, 2023</span></a></p><p>&nbsp;</p><hr /><p>&nbsp;</p><h3 id='december-2023partly'><span>December 2023(Partly)</span></h3><p><a href='https://niceboy.online/insight/public/Espresso/Espresso_December_31_2022.html'><span>December 31, 2022</span></a>
+<a href='https://niceboy.online/insight/public/Espresso/Espresso_December_30_2022.html'><span>December 30, 2022</span></a>
+<a href='https://niceboy.online/insight/public/Espresso/Espresso_December_29_2022.html'><span>December 29, 2022</span></a>
+<a href='https://niceboy.online/insight/public/Espresso/Espresso_December_28_2022.html'><span>December 28, 2022</span></a>
+<a href='https://niceboy.online/insight/public/Espresso/Espresso_December_27_2022.html'><span>December 27, 2022</span></a>
+<a href='https://niceboy.online/insight/public/Espresso/Espresso_December_26_2022.html'><span>December 26, 2022</span></a>
+<a href='https://niceboy.online/insight/public/Espresso/Espresso_December_24_2022.html'><span>December 24, 2022</span></a>
+<a href='https://niceboy.online/insight/public/Espresso/Espresso_December_23_2022.html'><span>December 23, 2022</span></a>
+<a href='https://niceboy.online/insight/public/Espresso/Espresso_December_22_2022.html'><span>December 22, 2022</span></a>
+<a href='https://niceboy.online/insight/public/Espresso/Espresso_December_21_2022.html'><span>December 21, 2022</span></a>
+<a href='https://niceboy.online/insight/public/Espresso/Espresso_December_20_2022.html'><span>December 20, 2022</span></a>
+<a href='https://niceboy.online/insight/public/Espresso/Espresso_December_19_2022.html'><span>December 19, 2022</span></a>
+<a href='https://niceboy.online/insight/public/Espresso/Espresso_December_17_2022.html'><span>December 17, 2022</span></a>
+<a href='https://niceboy.online/insight/public/Espresso/Espresso_December_16_2022.html'><span>December 16, 2022</span></a>
+<a href='https://niceboy.online/insight/public/Espresso/Espresso_December_15_2022.html'><span>December 15, 2022</span></a>
+<a href='https://niceboy.online/insight/public/Espresso/Espresso_December_14_2022.html'><span>December 14, 2022</span></a>
+<a href='https://niceboy.online/insight/public/Espresso/Espresso_December_13_2022.html'><span>December 13, 2022</span></a>
+<a href='https://niceboy.online/insight/public/Espresso/Espresso_December_12_2022.html'><span>December 12, 2022</span></a>
+<a href='https://niceboy.online/insight/public/Espresso/Espresso_December_10_2022.html'><span>December 10, 2022</span></a></p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p></div></div>
+</body>
+</html>
