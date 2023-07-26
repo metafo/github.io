@@ -134,3 +134,8 @@ Our baristas will serve you a new question each day this week. On Friday your ch
 > **Courage is the price that life exacts for granting peace.**
 >
 > Amelia Earhart
+
+
+
+
+
