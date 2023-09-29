@@ -40,7 +40,7 @@ Hui Ka Yan, the chairman of **Evergrande**, a beleaguered Chinese property compa
 
 
 
-![img](https://cdn.espresso.economist.com/files/public/images/20230930_dap335.jpg)PHOTO: DAVE SIMONDS
+![img](https://niceboy.online/insight/public/Espresso/PHOTOS/20230930_dap335.jpg)PHOTO: DAVE SIMONDS
 
 ### Testing times for India and America
 
@@ -56,7 +56,7 @@ President Joe Biden reportedly raised the issue with Narendra Modi, India’s pr
 
 
 
-![img](https://cdn.espresso.economist.com/files/public/images/20230930_dap334.jpg)PHOTO: AP
+![img](https://niceboy.online/insight/public/Espresso/PHOTOS/20230930_dap334.jpg)PHOTO: AP
 
 ### The House investigates Biden
 
@@ -70,7 +70,7 @@ Republicans claim that as vice-president Mr Biden profited from his son [Hunter 
 
 
 
-![img](https://cdn.espresso.economist.com/files/public/images/20230930_dap332.jpg)PHOTO: REUTERS
+![img](https://niceboy.online/insight/public/Espresso/PHOTOS/20230930_dap332.jpg)PHOTO: REUTERS
 
 ### Italy’s faltering growth
 
@@ -78,7 +78,7 @@ Italy’s daunting [public debt](https://www.economist.com/special-report/2022/1
 
 But [Giorgia Meloni](https://www.economist.com/europe/2023/08/24/italys-hard-right-government-is-starting-to-look-more-radical), the prime minister, needs cash to fulfil election promises of lower taxes and social-security contributions in the budget for 2024. So far she has been fiscally cautious: her government had been aiming for a budget deficit of 3.7% of GDP next year. But late on Wednesday the cabinet raised that projection to 4.3%. The revision could rattle government bond markets.
 
-![img](https://cdn.espresso.economist.com/files/public/images/20230930_DAC761.jpg)
+![img](https://niceboy.online/insight/public/Espresso/PHOTOS/20230930_DAC761.jpg)
 
 
 
@@ -86,7 +86,7 @@ But [Giorgia Meloni](https://www.economist.com/europe/2023/08/24/italys-hard-rig
 
 
 
-![img](https://cdn.espresso.economist.com/files/public/images/20230930_dap325_1.jpg)PHOTO: RIGHT LIVELIHOOD
+![img](https://niceboy.online/insight/public/Espresso/PHOTOS/20230930_dap325_1.jpg)PHOTO: RIGHT LIVELIHOOD
 
 ### The other peace prize
 
@@ -100,7 +100,7 @@ This year’s winners have been selected from 170 nominees by a jury composed of
 
 
 
-![img](https://cdn.espresso.economist.com/files/public/images/20230930_dap327.jpg)PHOTO: PROFILE BOOKS
+![img](https://niceboy.online/insight/public/Espresso/PHOTOS/20230930_dap327.jpg)PHOTO: PROFILE BOOKS
 
 ### Caesar’s double-bed is warm
 
@@ -114,7 +114,7 @@ Her new book, “Emperor of Rome”, published on Thursday, details the lives of
 
 
 
-![img](https://cdn.espresso.economist.com/files/public/images/20220218_OPD008_hq_7.jpg)
+![img](https://niceboy.online/insight/public/Espresso/PHOTOS/20220218_OPD008_hq_7.jpg)
 
 ### Daily quiz
 
