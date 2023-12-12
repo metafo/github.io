@@ -4523,3 +4523,83 @@ aria2c https://cdn.espresso.economist.com/files/public/images/20231202_dap327.jp
 aria2c https://cdn.espresso.economist.com/files/public/images/20231202_dap331.jpg
 aria2c https://cdn.espresso.economist.com/files/public/images/20231202_dap325.jpg
 aria2c https://cdn.espresso.economist.com/files/public/images/QuizNEW_198.jpeg
+
+
+cd /
+cd home/ho/Downloads/Espresso/PHOTOS
+aria2c https://cdn.espresso.economist.com/files/public/images/20231202_dap343.jpg
+aria2c https://cdn.espresso.economist.com/files/public/images/20231202_dap344.jpg
+aria2c https://cdn.espresso.economist.com/files/public/images/20231202_dap342.jpg
+aria2c https://cdn.espresso.economist.com/files/public/images/20231202_dap335.jpg
+aria2c https://cdn.espresso.economist.com/files/public/images/20231202_DAM961.jpg
+aria2c https://cdn.espresso.economist.com/files/public/images/20231202_dap338.jpg
+aria2c https://cdn.espresso.economist.com/files/public/images/Crossword_33.jpg
+aria2c https://cdn.espresso.economist.com/files/public/images/QuizNEW_199.jpeg
+
+
+cd /
+cd home/ho/Downloads/Espresso/PHOTOS
+aria2c https://cdn.espresso.economist.com/files/public/images/20231202_dap354.jpg
+aria2c https://cdn.espresso.economist.com/files/public/images/20231202_dap349.jpg
+aria2c https://cdn.espresso.economist.com/files/public/images/20231202_dap352.jpg
+aria2c https://cdn.espresso.economist.com/files/public/images/20231202_dap340.jpg
+aria2c https://cdn.espresso.economist.com/files/public/images/20231202_dap347.jpg
+aria2c https://cdn.espresso.economist.com/files/public/images/Espresso_Crossword_8.jpg
+aria2c https://cdn.espresso.economist.com/files/public/images/XwordGrid_10_545_9.jpg
+aria2c https://cdn.espresso.economist.com/files/public/images/quiz_0.jpg
+
+cd /
+cd home/ho/Downloads/Espresso/PHOTOS
+aria2c https://cdn.espresso.economist.com/files/public/images/20231202_dap368.jpg
+aria2c https://cdn.espresso.economist.com/files/public/images/20231202_dap369.jpg
+aria2c https://cdn.espresso.economist.com/files/public/images/20231202_dap367.jpg
+aria2c https://cdn.espresso.economist.com/files/public/images/20231209_DAC607.jpg
+aria2c https://cdn.espresso.economist.com/files/public/images/20231202_dap366.jpg
+aria2c https://cdn.espresso.economist.com/files/public/images/20231202_dap363.jpg
+aria2c https://cdn.espresso.economist.com/files/public/images/QuizNEW_200.jpeg
+
+
+cd /
+cd home/ho/Downloads/Espresso/PHOTOS
+aria2c https://cdn.espresso.economist.com/files/public/images/20231209_dap309.jpg
+aria2c https://cdn.espresso.economist.com/files/public/images/20231209_dap307.jpg
+aria2c https://cdn.espresso.economist.com/files/public/images/20231209_dap314.jpg
+aria2c https://cdn.espresso.economist.com/files/public/images/20231209_dap315.jpg
+aria2c https://cdn.espresso.economist.com/files/public/images/20231209_DAC626.jpg
+aria2c https://cdn.espresso.economist.com/files/public/images/20231209_dap311.jpg
+aria2c https://cdn.espresso.economist.com/files/public/images/QuizNEW_201.jpeg
+
+
+cd /
+cd home/ho/Downloads/Espresso/PHOTOS
+aria2c https://cdn.espresso.economist.com/files/public/images/20231209_dap325.jpg
+aria2c https://cdn.espresso.economist.com/files/public/images/20231209_DAC640.jpg
+aria2c https://cdn.espresso.economist.com/files/public/images/20231209_dap333.jpg
+aria2c https://cdn.espresso.economist.com/files/public/images/20231209_dap322.jpg
+aria2c https://cdn.espresso.economist.com/files/public/images/20231209_dap331.jpg
+aria2c https://cdn.espresso.economist.com/files/public/images/20231209_dap324_0.jpg
+aria2c https://cdn.espresso.economist.com/files/public/images/QuizNEW_202.jpeg
+
+
+cd /
+cd home/ho/Downloads/Espresso/PHOTOS
+aria2c https://cdn.espresso.economist.com/files/public/images/20231209_dap342.jpg
+aria2c https://cdn.espresso.economist.com/files/public/images/20231209_DAC608.jpg
+aria2c https://cdn.espresso.economist.com/files/public/images/ESPaw071223.jpg
+aria2c https://cdn.espresso.economist.com/files/public/images/20231209_dap340.jpg
+aria2c https://cdn.espresso.economist.com/files/public/images/20231209_dap341.jpg
+aria2c https://cdn.espresso.economist.com/files/public/images/20231209_dap337.jpg
+aria2c https://cdn.espresso.economist.com/files/public/images/20220218_OPD008_hq_13.jpg
+
+
+
+cd /
+cd home/ho/Downloads/Espresso/PHOTOS
+aria2c https://cdn.espresso.economist.com/files/public/images/20231209_dap364.jpg
+aria2c https://cdn.espresso.economist.com/files/public/images/20231209_dap368.jpg
+aria2c https://cdn.espresso.economist.com/files/public/images/20231209_DAC677.jpg
+aria2c https://cdn.espresso.economist.com/files/public/images/20231209_dap366.jpg
+aria2c https://cdn.espresso.economist.com/files/public/images/20231209_dap362.jpg
+aria2c https://cdn.espresso.economist.com/files/public/images/20231209_dap358.jpg
+aria2c https://cdn.espresso.economist.com/files/public/images/TEST_1.jpg
+aria2c https://cdn.espresso.economist.com/files/public/images/20220218_OPD008_hq_14.jpg
