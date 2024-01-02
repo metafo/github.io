@@ -1,10 +1,14 @@
-### January 2, 2023
+## The World in Brief
 
-#### The world in brief January 2, 2023
+### January 2, 2023
 
 Catch up quickly on the global stories that matter
 
+
+
 ------
+
+
 
 **Luiz Inácio Lula da Silva** was sworn in as [Brazil’s president](https://www.economist.com/the-americas/2022/12/31/brazils-new-president-faces-a-fiscal-crunch-and-a-fickle-congress) in Brasília, the country’s capital. The left-leaning politician was previously president from 2003 to 2010. He defeated Jair Bolsonaro, the far-right incumbent, in October in the closest election in Brazil’s recent history. Tens of thousands of Lula’s supporters thronged the streets of Brasília. Breaking with past practice, Mr Bolsonaro did not attend the ceremony.
 
@@ -22,7 +26,11 @@ Hundreds of thousands of **Palestinians** attended a rally in Gaza to mark the 5
 
 
 
-#### **Fact of the day:** 
+------
+
+
+
+### Fact of the day:
 
 **50m**, the number of people who may be beginning 2023 on the brink of famine, according to the UN’s World Food Programme. [Read the full article](https://www.economist.com/the-world-ahead/2022/11/18/global-hunger-is-now-more-a-problem-of-price-than-availability).
 
@@ -32,11 +40,11 @@ Hundreds of thousands of **Palestinians** attended a rally in Gaza to mark the 5
 
 
 
-#### Electric pickup trucks could change attitudes in America
-
 ![img](https://niceboy.online/insight/public/Espresso/PHOTOS/20221224_dap315.jpeg)
 
 PHOTO: GETTY IMAGES
+
+### Electric pickup trucks could change attitudes in America
 
 *Today we are looking ahead to this year’s big stories in business. Normal Espresso service returns on Tuesday*
 
@@ -48,11 +56,17 @@ But it will take more than nifty pickups for EVs to displace combustion-engine v
 
 
 
-#### The repairs business takes off
+
+
+------
+
+
 
 ![img](https://niceboy.online/insight/public/Espresso/PHOTOS/20221217_dap352.jpeg)
 
 PHOTO: GETTY IMAGES
+
+### The repairs business takes off
 
 *Today we are looking ahead to this year’s big stories in business. Normal Espresso service returns on Tuesday*
 
@@ -64,11 +78,15 @@ Fast fashion is not about to release its stranglehold on the market: one study r
 
 
 
-#### Who will be tech's winners and losers of 2023?
+------
+
+
 
 ![img](https://niceboy.online/insight/public/Espresso/PHOTOS/20221217_dap353.jpeg)
 
 PHOTO: GETTY IMAGES
+
+### Who will be tech's winners and losers of 2023?
 
 *Today we are looking ahead to this year’s big stories in business. Normal Espresso service returns on Tuesday*
 
@@ -80,11 +98,15 @@ Big firms tend to be more resilient in a downturn, partly because they hold plen
 
 
 
-#### Expect more corporate activism
+------
+
+
 
 ![img](https://niceboy.online/insight/public/Espresso/PHOTOS/20221224_dap320.jpeg)
 
 PHOTO: REUTERS
+
+### Expect more corporate activism
 
 *Today we are looking ahead to this year’s big stories in business. Normal Espresso service returns on Tuesday*
 
@@ -94,9 +116,13 @@ As well as abortion, in 2023 companies may be judged on their approaches to clim
 
 
 
-#### Daily quiz
+------
+
+
 
 ![img](https://niceboy.online/insight/public/Espresso/PHOTOS/EspressoQuiz_2.jpeg)
+
+### Daily quiz
 
 Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on **Friday** to [QuizEspresso@economist.com](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
@@ -104,6 +130,19 @@ Our baristas will serve you a new question each day this week. On Friday your ch
 
 
 
+
+
+------
+
+
+
+### Quote of the Day
+
 > **It is only afterward that a new idea seems reasonable. To begin with, it usually seems unreasonable.**
 >
 > Isaac Asimov
+
+
+
+
+
