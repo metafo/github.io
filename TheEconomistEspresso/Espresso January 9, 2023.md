@@ -1,10 +1,14 @@
-### January 9, 2023
+## The world in brief
 
-#### The world in brief January 9, 2023
+### January 9, 2023
 
 Catch up quickly on the global stories that matter
 
+
+
 ------
+
+
 
 In **Brazil** thousands of supporters of former president Jair Bolsonaro stormed the presidential palace, Congress building and Supreme Court in the capital, Brasília. The police and the army cleared out crowds from government buildings with tear gas, and police arrested 170 protestors. President [Luiz Inácio Lula da Silva](https://www.economist.com/the-americas/2022/12/31/brazils-new-president-faces-a-fiscal-crunch-and-a-fickle-congress), who was in São Paulo on official business, said he would return to the capital and invoked emergency powers to allow “any measures necessary” to restore order. Some *bolsonaristas* do not accept that the former president lost the general election in October.
 
@@ -22,9 +26,17 @@ The **IMF** announced a meeting with **Pakistan**, to be held on Monday, to disc
 
 
 
-#### **Fact of the day:** 
+------
+
+
+
+### Fact of the day: 
 
 **56%**, the percentage of people in Latin America who identify as Catholic, down from 80% in 1995. [Read the full story.](https://www.economist.com/international/2023/01/02/the-death-of-pope-benedict-removes-a-problem-for-liberal-catholics)
+
+
+
+------
 
 
 
